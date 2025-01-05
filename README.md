@@ -4,8 +4,7 @@ This course introduces the students to digital electronics and provides a broad 
 Laboratory experiments provide hands-on experience with the simulator software, actual devices and circuits studied in the classroom.
 
 # Lab Assessment
-
-
+[Open My PDF]()
 
 
 # Learning Material
