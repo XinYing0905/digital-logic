@@ -3,6 +3,11 @@ Digital electronics is the foundation of all microprocessor-based systems found 
 This course introduces the students to digital electronics and provides a broad overview of many important concepts, components, and tools. Students will get up-to-date coverage of digital fundamentals-from basic concepts to programmable logic devices. 
 Laboratory experiments provide hands-on experience with the simulator software, actual devices and circuits studied in the classroom.
 
+# Lab Assessment
+
+
+
+
 # Learning Material
 📖 Here's the link to digital logic textbook: [Textbook](https://github.com/XinYing0905/digital-logic/blob/main/Digital%20Logic%20Textbook.pdf)
 
