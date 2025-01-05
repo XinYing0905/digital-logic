@@ -5,7 +5,11 @@ Laboratory experiments provide hands-on experience with the simulator software, 
 
 # Lab Assessment
 In the first lab session, we learned about the pin layout for different types of Integrated Circuit. We also did experiment by manipulating input using ETS-5000 Digital Training Kit.<br>
-Worksheet : [Lab Assessment 1](Lab/Lab1.pdf)<br>
+Worksheet : [Lab Assessment 1](Lab/Lab1.pdf)<br><br>
+<a href="Lab/Lab1.pdf">
+  <img src="Lab/lab1.png" alt="PDF Preview" width="200">
+</a>
+
 <br>
 The second lab assessment required us to utilize DEEDS software, to perform multiple functions like demonstrating the output that varies with different input values and generating timing diagram. <br>
 Worksheet : [Lab Assessment 2](Lab/Lab2.pdf)<br>
