@@ -4,9 +4,13 @@ This course introduces the students to digital electronics and provides a broad 
 Laboratory experiments provide hands-on experience with the simulator software, actual devices and circuits studied in the classroom.
 
 # Lab Assessment
-[Open My PDF](Lab/Lab Assessment 1.pdf)
-[Open My PDF](Lab/Lab1.pdf)
-[View PDF](./Lab1.pdf)
+In the first lab session, we learned about the pin layout for different types of Integrated Circuit. We also did experiment by manipulating input using ETS-5000 Digital Training Kit.<br>
+Worksheet : [Lab Assessment 1](Lab/Lab1.pdf)<br>
+<br>
+The second lab assessment required us to utilize DEEDS software, to perform multiple functions like demonstrating the output that varies with different input values and generating timing diagram. <br>
+Worksheet : [Lab Assessment 2](Lab/Lab2.pdf)<br>
+<br>
+[Lab Assessment 3](Lab/Lab3.pdf)<br>
 
 
 # Learning Material
