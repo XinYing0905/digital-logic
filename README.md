@@ -5,7 +5,7 @@ Laboratory experiments provide hands-on experience with the simulator software, 
 
 # Lab Assessment
 [Open My PDF](Lab/Lab Assessment 1.pdf)
-[Open My PDF](Lab/Lab Asses/your/file.pdf)
+[Open My PDF](Lab/Lab1.pdf)
 
 
 # Learning Material
