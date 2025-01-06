@@ -32,7 +32,7 @@ Laboratory experiments provide hands-on experience with the simulator software, 
 <br>
 
 
-# Learning Material
+# Learning Material 📚
 📖 Here's the link to digital logic textbook: [Textbook](https://github.com/XinYing0905/digital-logic/blob/main/Digital%20Logic%20Textbook.pdf)
 
 # Reflection 🪞
