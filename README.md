@@ -10,7 +10,7 @@ Laboratory experiments provide hands-on experience with the simulator software, 
   <img src="Lab/lab1.png" alt="PDF Preview" width="200">
 </a>
 - 💭 Reflection:
-> The hands-on experience using ETS-5000 Kit has successfully bridge the gap between theory and real-life. It was a completely different feeling when you got to see how the output varies with input using bare eyes.
+> The hands-on experience using ETS-5000 Kit has successfully bridged the gap between theory and real-life. It was a completely different feeling when you got to see how the output varies with input using bare eyes.
 <br>
 2️⃣ The second lab assessment required us to utilize DEEDS software, to perform multiple functions like demonstrating the output that varies with different input values and generating timing diagram. <br><br>
 📝 Worksheet : <br><br>
