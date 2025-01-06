@@ -7,7 +7,7 @@ Laboratory experiments provide hands-on experience with the simulator software, 
 1️⃣ In the first lab session, we learned about the pin layout for different types of Integrated Circuit. We also did experiment by manipulating input using ETS-5000 Digital Training Kit.<br><br>
 📝 Worksheet : <br><br>
 <a href="Lab/Lab1.pdf">
-  <img src="Lab/lab1.png" alt="PDF Preview" width="200">
+  <img src="Lab/lab1.png" alt="PDF Preview" width="300">
 </a>
 - 💭 Reflection:
 > The hands-on experience using ETS-5000 Kit has successfully bridged the gap between theory and real-life. It was a completely different feeling when you got to see how the output varies with input using bare eyes.
@@ -15,7 +15,7 @@ Laboratory experiments provide hands-on experience with the simulator software, 
 2️⃣ The second lab assessment required us to utilize DEEDS software, to perform multiple functions like demonstrating the output that varies with different input values and generating timing diagram. <br><br>
 📝 Worksheet : <br><br>
 <a href="Lab/Lab2.pdf">
-  <img src="Lab/lab2.png" alt="PDF Preview" width="200">
+  <img src="Lab/lab2.png" alt="PDF Preview" width="300">
 </a>
 
 - 💭 Reflection:
@@ -24,7 +24,7 @@ Laboratory experiments provide hands-on experience with the simulator software, 
 3️⃣ The third lab havent done. Please be patient :><br>
 📝 Worksheet : <br><br>
 <a href="Lab/Lab3.pdf">
-  <img src="Lab/lab3.png" alt="PDF Preview" width="200">
+  <img src="Lab/lab3.png" alt="PDF Preview" width="300">
 </a>
 
 - 💭 Reflection:
